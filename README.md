@@ -1,4 +1,4 @@
-# ![gofinances_mobile](/src/assets/logo.png)
+# ![gofinances_mobile](gofinances_mobile/src/assets/logo.png)
 
 App de controle de despesas e entradas financeiras, desenvolvido com React Native durante as aulas do Ignite da @Rocketseat.
 
