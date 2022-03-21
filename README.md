@@ -1,4 +1,5 @@
-# ![gofinances_mobile](gofinances_mobile/src/assets/logo.png)
+# ![gofinances_mobile](gofinances_mobile/src/assets/logo.svg)
+
 
 App de controle de despesas e entradas financeiras, desenvolvido com React Native durante as aulas do Ignite da @Rocketseat.
 
@@ -16,6 +17,11 @@ Desenvolver um app de controle financeiro e avançar no aprendizado de alguns re
 - Utilização de Contexto (rotas privadas e públicas)
 
 ## 📱 Layout
+![WhatsApp Image 2022-03-21 at 19 20 51](https://user-images.githubusercontent.com/47436367/159372951-be930ba1-f329-4f4f-80a9-b8a47e4cc8a3.jpeg)
+![WhatsApp Image 2022-03-21 at 19 20 51 (3)](https://user-images.githubusercontent.com/47436367/159372962-7bb9112b-202e-438c-a6af-88e432907dab.jpeg)
+![WhatsApp Image 2022-03-21 at 19 20 51 (2)](https://user-images.githubusercontent.com/47436367/159372973-c40ebbec-cb88-48ca-9e01-456c3b2df713.jpeg)
+![WhatsApp Image 2022-03-21 at 19 20 51 (1)](https://user-images.githubusercontent.com/47436367/159372980-c7ed6b2e-c760-4c82-9975-6dabd03015e0.jpeg)
+
 
 ## ⚛ Tecnologias / Bibliotecas utilizadas
 - React Native
