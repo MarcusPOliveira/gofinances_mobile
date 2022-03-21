@@ -17,10 +17,10 @@ Desenvolver um app de controle financeiro e avançar no aprendizado de alguns re
 - Utilização de Contexto (rotas privadas e públicas)
 
 ## 📱 Layout
-Tela de Login <img style="float: left;" src="https://user-images.githubusercontent.com/47436367/159372951-be930ba1-f329-4f4f-80a9-b8a47e4cc8a3.jpeg" height=700 width=300> 
-Tela Inicial <img style="float: right;" src="https://user-images.githubusercontent.com/47436367/159372962-7bb9112b-202e-438c-a6af-88e432907dab.jpeg" height=700 width=300>
-Tela de Cadastro de despesas/entradas <img style="float: left;" src="https://user-images.githubusercontent.com/47436367/159372973-c40ebbec-cb88-48ca-9e01-456c3b2df713.jpeg" height=700 width=300>
-Tela de Resumo <img style="float: right;" src="https://user-images.githubusercontent.com/47436367/159372980-c7ed6b2e-c760-4c82-9975-6dabd03015e0.jpeg" height=700 width=300>
+<img style="float: left;" src="https://user-images.githubusercontent.com/47436367/159372951-be930ba1-f329-4f4f-80a9-b8a47e4cc8a3.jpeg" height=700 width=300> 
+<img style="float: right;" src="https://user-images.githubusercontent.com/47436367/159372962-7bb9112b-202e-438c-a6af-88e432907dab.jpeg" height=700 width=300>
+<img style="float: left;" src="https://user-images.githubusercontent.com/47436367/159372973-c40ebbec-cb88-48ca-9e01-456c3b2df713.jpeg" height=700 width=300>
+<img style="float: right;" src="https://user-images.githubusercontent.com/47436367/159372980-c7ed6b2e-c760-4c82-9975-6dabd03015e0.jpeg" height=700 width=300>
 
 
 ## ⚛ Tecnologias / Bibliotecas utilizadas
